@@ -1,0 +1,7 @@
+/target
+/sessions/*
+!/sessions/.gitkeep
+*.zip
+*.db
+*.db-shm
+*.db-wal

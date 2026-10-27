@@ -1,0 +1,12 @@
+{
+  "phone_number": "",
+  "prefixes": [
+    "!",
+    ".",
+    "#",
+    "/"
+  ],
+  "mode": "self",
+  "owner_numbers": [],
+  "db_path": "sessions/bot.db"
+}
