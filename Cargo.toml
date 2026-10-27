@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 authors = ["sanzydev"]
 repository = "https://github.com/sanzydev/WaBot-Rust"
+license = "MIT"
 
 [dependencies]
 whatsapp-rust = { git = "https://github.com/oxidezap/whatsapp-rust" }
